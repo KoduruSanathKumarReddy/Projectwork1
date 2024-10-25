@@ -1,10 +1,9 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+##  PRECISION  CLASSIFICATION BRAIN TUMOR USING 3D U-NET MODEL
+Leveraging the features of 3D U-Net model to classify the brain tumors accurately and efficiently reducing the vulnerability of the patient.
 
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Precision classification brain tumor using 3D U-Net model project helps to classify the brain tumor based on the dataset of MRI images of various patients into methylated and non methylated tumors. Classifying the brain tumors would provide a fast and easiest approach for the timely treatment of the patient. This would reduce the vulnerability of the patient because of the traditional surgical method. 
 
 ## Features
 <!--List the features of the project as shown below-->
@@ -17,36 +16,37 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 ## Requirements
 <!--List the requirements of the project as shown below-->
 * Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
+* Development Environment: Python 3.6 or later is necessary for developing the 3D U-Net model for brain tumor classification.
 * Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
 * Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
 * Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+* IDE: Use of pycharm or any online compilers such as google colab or kaggle notebook with required packages installed.
+* Additional Dependencies: Includes scikit-learn, PyTorch, TensorFlow GPU and XgBooster.
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+<img width="505" alt="Screenshot 2024-10-22 at 10 20 19 PM" src="https://github.com/user-attachments/assets/aea5a191-56f9-4189-aa0a-f0a501a89d04">
+
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - MRI Sequences FLAIR,T1WCE,T1W,T2W
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+<img width="631" alt="image" src="https://github.com/user-attachments/assets/ee1ffead-8087-4a6c-9626-2c57f620435b">
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+#### Output2 - Comparision of Kurtosis values
+<img width="886" alt="image" src="https://github.com/user-attachments/assets/1ced1ca5-80ed-461a-9bfb-7b57c2c3936d">
+
+
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The integration of machine learning algorithm 3D U-Net model increases the efficiency of brain tumor classification which is the primary step to start the treat for the particular turmor. This would reduce the time required for classification and rhe risk to be faced due to traditional surgical procedure where the patient has to endure the pain.
+
 
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
